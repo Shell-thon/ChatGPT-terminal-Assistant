@@ -26,8 +26,8 @@ Install dependencies:
 ```bash
 pip install pyautogui pyperclip
 
- ```bash
 pip install pyautogui pyperclip SpeechRecognition pyttsx3 pyaudio
+```
 
 
 
