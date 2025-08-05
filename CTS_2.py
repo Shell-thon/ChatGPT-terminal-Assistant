@@ -1,5 +1,3 @@
-#!/usr/bin/env
-
 import pyautogui
 import pyperclip
 import speech_recognition as sr
