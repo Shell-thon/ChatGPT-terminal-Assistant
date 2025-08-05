@@ -47,7 +47,7 @@ pip install pyautogui pyperclip SpeechRecognition pyttsx3 pyaudio
 > Voice-powered assistant  
 > Speak your questions, send them to ChatGPT, and get the response read out loud — all without using the API.
 
-📰 [Read Part 2](https://medium.com/@shell-terminal/%EF%B8%8F-turn-chatgpt-into-a-voice-activated-cli-assistant-no-api-required-4f12a15ebf7e)
+📰 [Read Part 2](comingsoon)
 
 ---
 
