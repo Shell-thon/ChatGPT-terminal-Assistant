@@ -33,15 +33,6 @@ pip install pyautogui pyperclip SpeechRecognition pyttsx3 pyaudio
 ```
 
 
-
-## ✅ 1. Updated `README.md` with **both articles** and **CTS_2.py**
-
-`# 🧠 ChatGPT Terminal Assistant — No API Required  A Python-powered CLI assistant that interacts with ChatGPT using the **browser interface**, so you don’t need any API keys or subscriptions. It's free, scriptable, and super handy for DevOps, automation, and productivity.  ---  ## 📦 Requirements  - Python 3.7+ - A ChatGPT account (free tier is fine) - A browser with [chat.openai.com](https://chat.openai.com) open and logged in - Python packages:   ```bash   pip install pyautogui pyperclip SpeechRecognition pyttsx3 pyaudio`
-
----
-
-## 🚀 Scripts Included
-
 ### ✅ `CTS.py`
 
 > Basic terminal assistant  
