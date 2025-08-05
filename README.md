@@ -6,6 +6,7 @@ Instead of relying on OpenAI's API (which requires keys, rate limits, and billin
 
 ---
 
+
 ## 🚀 Features
 
 - Send terminal queries directly to ChatGPT (via the browser)
@@ -15,6 +16,7 @@ Instead of relying on OpenAI's API (which requires keys, rate limits, and billin
 
 ---
 
+
 ## 📦 Requirements
 
 - Python 3.7+
@@ -23,7 +25,8 @@ Instead of relying on OpenAI's API (which requires keys, rate limits, and billin
 
 Install dependencies:
 
-```bash
+```
+    bash
 pip install pyautogui pyperclip
 
 pip install pyautogui pyperclip SpeechRecognition pyttsx3 pyaudio
